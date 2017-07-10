@@ -1,0 +1,5 @@
+Caso 1:
+python pacman.py -g GhostAgent -p PacmanAgent -k 2
+
+Caso 2:
+python pacman.py -g GhostAgent -p PacmanAgent -k 0
