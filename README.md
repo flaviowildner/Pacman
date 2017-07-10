@@ -11,6 +11,6 @@ Caso 1: python pacman.py -g GhostAgent -p PacmanAgent -k 2
 
 Caso 2: python pacman.py -g GhostAgent -p PacmanAgent -k 0
 
-Arquivos com videos dos casos de teste: https://www.dropbox.com/sh/1t37josvziqy8jv/AADEH8wqDzQUWYu5ro9_uJB4a?dl=0
+Arquivos com vídeos dos casos de teste: https://www.dropbox.com/sh/1t37josvziqy8jv/AADEH8wqDzQUWYu5ro9_uJB4a?dl=0
 
-Atividade acadêmica de inteligencia artificial
+Atividade acadêmica de inteligência artificial
