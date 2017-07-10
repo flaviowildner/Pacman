@@ -1,7 +1,8 @@
 # Pacman
 
--Implementação do A* nos fantasmas cercando o Pacman
--Implementação do A* no Pacman para buscar uma rota para a comida mais próxima(algoritmo de manhattan) que não tenha fantasmas.
+ - Implementação do A* nos fantasmas cercando o Pacman
+ - Implementação do A* no Pacman para buscar uma rota para a comida mais próxima(algoritmo de manhattan) que não tenha fantasmas.
+
 Casos de teste: 1) Os fantasmas cercando o pacman 2) Um caso especial, sem fantasmas, com o pacman coletando toda a comida sem os fantasmas.
 
 Execução:
